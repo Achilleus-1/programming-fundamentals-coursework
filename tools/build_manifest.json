@@ -1,0 +1,49 @@
+[
+  {
+    "compiler": "gcc",
+    "sources": [
+      "c/airline-route-records/main.c",
+      "c/airline-route-records/route-records.c"
+    ]
+  },
+  {
+    "compiler": "gcc",
+    "sources": [
+      "c/dice-game/dicegame.c",
+      "c/dice-game/main.c"
+    ]
+  },
+  {
+    "compiler": "gcc",
+    "sources": [
+      "c/linked-list-tournament/champion.c",
+      "c/linked-list-tournament/main.c"
+    ]
+  },
+  {
+    "compiler": "javac",
+    "sources": [
+      "java/calorie-tracker/CalorieCount.java"
+    ]
+  },
+  {
+    "compiler": "javac",
+    "sources": [
+      "java/cyclone-records/Cyclone.java"
+    ]
+  },
+  {
+    "compiler": "javac",
+    "sources": [
+      "support/DrawingPanel.java",
+      "java/animated-helix/Helix.java"
+    ]
+  },
+  {
+    "compiler": "javac",
+    "sources": [
+      "support/DrawingPanel.java",
+      "java/screen-saver/ScreenSaver.java"
+    ]
+  }
+]
